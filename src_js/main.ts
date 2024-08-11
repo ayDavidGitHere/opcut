@@ -15,6 +15,6 @@ function main() {
 }
 
 
-window.addEventListener('load', main);
+//window.addEventListener('load', main);
 (window as any).r = r;
 (window as any).u = u;
